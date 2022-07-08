@@ -1,0 +1,1 @@
+{"states": {"type": "float", "shape": [2], "min_value": [-1.2000000476837158, -0.07000000029802322], "max_value": [0.6000000238418579, 0.07000000029802322]}, "actions": {"type": "int", "shape": [], "num_values": 3}, "internals": {}, "initial_internals": {"policy": {}, "baseline": {}}}
